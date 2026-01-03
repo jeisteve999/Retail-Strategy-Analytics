@@ -44,16 +44,14 @@ Below is a sample Pandas output showing total revenue by store:
 ## 📈 Visual Insights
 
 ### Total Revenue by Store
-![Total Revenue by Store]()
+![Total Revenue by Store](https://github.com/jeisteve999/Retail-Strategy-Analytics/blob/main/Total%20Revenue%20By%20Store.png)
 
 ### Sales by Product Category
-![Sales by Category]()
+![Sales by Category](https://github.com/jeisteve999/Retail-Strategy-Analytics/blob/main/sales%20by%20product%20category.png)
 
-### Average Customer Rating by Store
-![Average Rating by Store]()
+### Top selling product by Store
+![Top selling product by Store](https://github.com/jeisteve999/Retail-Strategy-Analytics/blob/main/Top-Selling%20Product%20by%20Store.png)
 
-### Average Shipping Cost by Store
-![Average Shipping Cost by Store]()
 
 ---
 
