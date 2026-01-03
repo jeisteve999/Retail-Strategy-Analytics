@@ -1,4 +1,4 @@
-# Sales & Business Performance Analysis
+# Retail-Strategy-Analytics
 
 This project presents a business-focused sales performance analysis across four stores using Python and Pandas.  
 The goal is to evaluate revenue generation, product demand, customer satisfaction, and shipping cost efficiency in order to support data-driven strategic decisions.
@@ -80,3 +80,33 @@ Although its shipping costs are not the lowest, customer satisfaction and produc
 
 ## 📁 Project Structure
 
+Retail-Strategy-Analytics/
+│
+├── Sales_&_Business_Performance_Analysis_job.ipynb
+├── README.md
+├── Total Revenue By Store.png
+├── sales by product category.png
+└── Top-Selling Product by Store.png
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jeisteve999/Retail-Strategy-Analytics.git
+
+2. Open the Jupyter Notebook: Sales_&_Business_Performance_Analysis_job.ipynb
+
+3. Run all cells to reproduce the analysis and visualizations.
+
+The notebook is fully self-contained and uses publicly available datasets.
+
+Conclusion: 
+
+This project demonstrates the use of Python and Pandas to analyze business performance from a strategic perspective.
+By combining data aggregation, visualization, and interpretation, the analysis provides clear insights that support data-driven decision-making.
+
+The approach and structure of this project make it suitable for business intelligence, sales analytics, and data analyst portfolio demonstrations.
+
+If you are interested in similar data analysis or business intelligence projects, feel free to connect with me through GitHub or Upwork.
